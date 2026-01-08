@@ -1,8 +1,8 @@
-EMPLOYEMENT INSIGHT DASHBORD USING POWER BI
+**EMPLOYEMENT INSIGHT DASHBORD USING POWER BI**
 
 I chose to work on this project by obtaining the raw dataset from Enterprise DNA and creating a compelling, interactive dashboard using Power BI.
 
-PROBLEM STATEMENT
+**PROBLEM STATEMENT**
 
 This Employment data focuses on New Zealand, it comes from many different agencies and systems, making it hard to see a clear picture of the public sector workforce. 
 Information such as employee numbers, vacancies, roles, regions, and workforce trends is often reported in different ways and at different times.
@@ -13,7 +13,7 @@ and trends are not easy to visualise. For example,key employees indicator breakd
 Without a simple, centralised Power BI dashboard, it becomes harder to spot workforce risks, plan future staffing needs, and support informed decision-making.
 A unified dashboard is needed to bring employment data together, standardise key measures, and present clear, easy-to-understand insights for New Zealand’s public sector leaders.
 
-SOLUTION
+**SOLUTION**
 
 This Power BI dashboard brings employment data into one clear and easy-to-use view. 
 It uses simple visuals to show workforce trends, changes over time, and key employment metrics such as total hired employees, total salary sost, avg.salaries and some other metrics.
@@ -21,7 +21,7 @@ The dashboard helps managers and leaders quickly understand workforce performanc
 It supports workforce planning by highlighting staffing levels, open roles, and employment trends.By turning complex employment data into clear insights,
 the dashboard improves transparency and helps organisations manage and plan their workforce more effectively.
 
-STEPS I TOOK IN THIS PROJECT
+**STEPS I TOOK IN THIS PROJECT**
 
 1. Planned the project using basic knowledge of the AIMS grid.
 2. Imported employment-related data from Excel into Power BI.
@@ -31,12 +31,12 @@ STEPS I TOOK IN THIS PROJECT
 6. Created key employment measures and used them to build interactive visuals in Power BI.
 7. Validated the data to confirm accuracy and reliability of the insights..
 
-MAJOR CHALLENGES AND CUSTOMIZATION MADE
+**MAJOR CHALLENGES AND CUSTOMIZATION MADE**
 
 No major challenges were encountered, as the data quality was generally good. 
 Minor adjustments were made during data cleaning and measure creation to ensure consistency and accurate reporting across visuals
 
-INSIGHTS
+**INSIGHTS**
 
 The dashboard provides a clear view about the location of each bussinesses across the country region, 
 it also describe the breakdown of the employee such as the Employement type, Age group, pay type, gender and the ethnic groups they all belong to,
@@ -45,13 +45,13 @@ It also talks about the key employee indicator breakdown where it shows the tota
 total leave balances.It also pin pointed the sick day balance evaluation, also estimated the total salary cost. 
 With the aid of this dashboard you can easily understand how the workforce actually works in any country
 
-FUTURE CONSIDERATION
+**FUTURE CONSIDERATION**
 
 The Employment Insight Dashboard may be expanded in the future to include more detailed analytics, real-time updates, and improved visual reports. 
 These improvements will help users better track trends, monitor performance, and make informed employment and insurance-related decisions.
 Also, additional features and integrations will be evaluated and implemented in line with organizational needs and strategic objectives.
 
-KEY LEARNINGS
+**KEY LEARNINGS**
 
 1. Gained hands-on experience working with real business datasets.
 2. Learned how to write and execute major analysis queries in Excel.
